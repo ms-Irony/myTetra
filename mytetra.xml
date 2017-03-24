@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1300000000aaaaaaaaa1" name="Irony_help">
+   <recordtable>
+    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+   </recordtable>
+   <node crypt="" id="1490358017564bda21qt" name="Development">
+    <node crypt="" id="1490358027h9bqnbfzso" name="php"/>
+    <node crypt="" id="14903580457iuowjrnsl" name="1c-bitrix"/>
+    <node crypt="" id="1490358096hqv0ws9rg7" name="bitrix24"/>
+    <node crypt="" id="1490358155bsanq1qkqn" name="html"/>
+   </node>
+   <node crypt="" id="1490358141kjqam8z1ew" name="Windows"/>
+  </node>
+ </content>
+</root>
